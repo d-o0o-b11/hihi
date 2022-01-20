@@ -19,7 +19,7 @@ import PageItem from "react-bootstrap/PageItem";
 import Pagination from "react-bootstrap/Pagination";
 // 경로 표현시 . 은 현재폴더
 // .. 은 상위 폴더를 의미한다.
-
+// 안녕하세요
 // 키보드로 드래그할때, ctrl + home은 해당줄 제일 앞까지
 // ctrl + end는 해당줄 제일 뒤까지
 
