@@ -3,14 +3,14 @@ import Slider from "react-slick";
 import { Card, Button } from "react-bootstrap";
 import styled from "styled-components";
 
-import poster1 from "../public/bak_1.jpg";
-import poster2 from "../public/bak_2.jpg";
-import poster3 from "../public/bak_3.jpg";
-import poster4 from "../public/bak_4.jpg";
-import poster5 from "../public/bak_5.jpg";
-import poster6 from "../public/bak_6.jpg";
-import poster7 from "../public/bak_7.jpg";
-import poster8 from "../public/bak_8.jpg";
+// import poster1 from "../public/bak_1.jpg";
+// import poster2 from "../public/bak_2.jpg";
+// import poster3 from "../public/bak_3.jpg";
+// import poster4 from "../public/bak_4.jpg";
+// import poster5 from "../public/bak_5.jpg";
+// import poster6 from "../public/bak_6.jpg";
+// import poster7 from "../public/bak_7.jpg";
+// import poster8 from "../public/bak_8.jpg";
 
 import "./blog.css";
 const Sliders = () => {
@@ -70,15 +70,15 @@ const Sliders = () => {
   `;
   const posts = [1, 2, 3, 4, 5, 6, 7, 8];
   const posts2 = [
-    poster1,
-    poster2,
-    poster3,
-    poster4,
-    poster5,
-    poster6,
-    poster7,
-    poster8,
-    poster1
+    "https://user-images.githubusercontent.com/62373865/150465348-6721931c-8090-4c46-baa4-cb22b443ac20.jpg",
+    "https://user-images.githubusercontent.com/62373865/150465340-118d5b4a-898c-4771-b242-11f3bf591fda.jpg",
+    "https://user-images.githubusercontent.com/62373865/150465341-57199341-e89d-4bc1-877a-af64e343e7e8.jpg",
+    "https://user-images.githubusercontent.com/62373865/150465345-ca4e81bf-4c62-416a-a4d9-cdb20c987e59.jpg",
+    "https://user-images.githubusercontent.com/62373865/150465347-d8cf5b3b-34a6-4b78-b9f5-52efa1205fa5.jpg",
+    "https://user-images.githubusercontent.com/62373865/150465348-6721931c-8090-4c46-baa4-cb22b443ac20.jpg",
+    "https://user-images.githubusercontent.com/62373865/150465350-737db5a6-eeff-49f6-af75-b6e1e8a6ea66.jpg",
+    "https://user-images.githubusercontent.com/62373865/150465352-128b63b6-ead8-47d7-85eb-287849984695.jpg",
+    "https://user-images.githubusercontent.com/62373865/150465337-fa82a0ba-4920-4e78-8460-be2415d28d0c.jpg"
   ];
   const posts3 = [
     "돼지고기 김치찌개",
