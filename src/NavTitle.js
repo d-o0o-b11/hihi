@@ -43,9 +43,12 @@ const Nav = () => {
                 <path d="M21 21l-5.2-5.2" />
               </svg>
             </a>
-            <a className="btn btn-sm btn-outline-success btn-text " href="#">
-              Sign up
-            </a>
+            <Link
+              to="/signIn"
+              className="btn btn-sm btn-outline-success btn-text "
+            >
+              Sign In
+            </Link>
           </div>
         </div>
       </header>

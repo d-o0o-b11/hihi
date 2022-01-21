@@ -14,6 +14,7 @@ import Footer from "./footer.js";
 import Bun_Slider from "./bun_slider";
 import Bun from "./bun.js";
 import BunPagenation from "./bun_pagenation.js";
+import SignIn from "./Signin.js";
 import { BrowserRouter, Route } from "react-router-dom";
 import PageItem from "react-bootstrap/PageItem";
 import Pagination from "react-bootstrap/Pagination";
@@ -46,7 +47,7 @@ function App() {
               <Footer></Footer>
             </div>
           </Route>
-          <Route path="/bun">
+          <Route exact path="/bun">
             <NavTitle></NavTitle>
             <div style={{ background: "#F1F1F2" }}>
               <div className="topF1"></div>
@@ -63,6 +64,10 @@ function App() {
                 <Footer></Footer>
               </div>
             </div>
+          </Route>
+          <Route exact path="/signIn">
+            <NavTitle></NavTitle>
+            <SignIn></SignIn>
           </Route>
         </switch>
       </div>
