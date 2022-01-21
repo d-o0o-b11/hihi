@@ -14,7 +14,7 @@ const Footer = () => {
         <div>
           <img
             className="foot_pi round_img"
-            src="https://user-images.githubusercontent.com/62373865/150465394-e896fa11-8eff-4fb8-a2d3-7bade2ea894b.jpg"
+            src="https://user-images.githubusercontent.com/62373865/150468579-039f6ab1-f7eb-47c9-93e6-4ef13e948099.jpg"
             alt="Twitter"
           />
           <img

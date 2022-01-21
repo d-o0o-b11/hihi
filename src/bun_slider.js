@@ -110,18 +110,38 @@ const Sliders = () => {
                   <div className="bun_people">
                     <img
                       className="bun_happy"
-                      src="./all.jpg"
+                      src="https://user-images.githubusercontent.com/62373865/150465330-7f300c9a-6e86-4a5a-a9ee-0a93afb9dca7.jpg"
                       alt="dog-profile"
                     />
-                    <span className="bun_people_name">주영맘</span>
+                    <span className="bun_people_name">동영맘</span>
                     {/* <p>주영맘</p> */}
                   </div>
                   <div className="bun_star">
-                    <img className="star" src="./star.jpg" alt="dog-profile" />
-                    <img className="star" src="./star.jpg" alt="dog-profile" />
-                    <img className="star" src="./star.jpg" alt="dog-profile" />
-                    <img className="star" src="./star.jpg" alt="dog-profile" />
-                    <img className="star" src="./star.jpg" alt="dog-profile" />
+                    <img
+                      className="star"
+                      src="https://user-images.githubusercontent.com/62373865/150468593-b8ae9fcb-d4e8-4a75-b749-4a1c7454bed0.jpg"
+                      alt="dog-profile"
+                    />
+                    <img
+                      className="star"
+                      src="https://user-images.githubusercontent.com/62373865/150468593-b8ae9fcb-d4e8-4a75-b749-4a1c7454bed0.jpg"
+                      alt="dog-profile"
+                    />
+                    <img
+                      className="star"
+                      src="https://user-images.githubusercontent.com/62373865/150468593-b8ae9fcb-d4e8-4a75-b749-4a1c7454bed0.jpg"
+                      alt="dog-profile"
+                    />
+                    <img
+                      className="star"
+                      src="https://user-images.githubusercontent.com/62373865/150468593-b8ae9fcb-d4e8-4a75-b749-4a1c7454bed0.jpg"
+                      alt="dog-profile"
+                    />
+                    <img
+                      className="star"
+                      src="https://user-images.githubusercontent.com/62373865/150468593-b8ae9fcb-d4e8-4a75-b749-4a1c7454bed0.jpg"
+                      alt="dog-profile"
+                    />
                     <span className="bun_star_name">(1) </span>
                     <span className="bun_star_name2">조회수 194</span>
                   </div>
